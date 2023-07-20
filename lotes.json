@@ -1,5 +1,6 @@
 [
     {
+        "\"ID\"": "Q.29 L.1",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "1",
@@ -7,10 +8,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "32.0 m",
-        "m²": "410.5 m²",
-        "": ""
+        "m²": "410.5 m²"
     },
     {
+        "\"ID\"": "Q.29 L.2",
         "Proprietario": "COLONIZADORA",
         "Quadra": "29",
         "Lote": "2",
@@ -18,10 +19,10 @@
         "Fundos": "16.5 m",
         "Lateral 1": "32.0 m",
         "Lateral 2": "35.0 m",
-        "m²": "429.2 m²",
-        "": ""
+        "m²": "429.2 m²"
     },
     {
+        "\"ID\"": "Q.29 L.4",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "4",
@@ -29,10 +30,10 @@
         "Fundos": "8.0 m",
         "Lateral 1": "37.0 m",
         "Lateral 2": "38.0 m",
-        "m²": "415.4 m²",
-        "": ""
+        "m²": "415.4 m²"
     },
     {
+        "\"ID\"": "Q.29 L.5",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "5",
@@ -40,10 +41,10 @@
         "Fundos": "8.0 m",
         "Lateral 1": "38.0 m",
         "Lateral 2": "34.0 m",
-        "m²": "422.6 m²",
-        "": ""
+        "m²": "422.6 m²"
     },
     {
+        "\"ID\"": "Q.29 L.6",
         "Proprietario": "COLONIZADORA",
         "Quadra": "29",
         "Lote": "6",
@@ -51,10 +52,10 @@
         "Fundos": "8.0 m",
         "Lateral 1": "34.0 m",
         "Lateral 2": "38.5 m",
-        "m²": "418.6 m²",
-        "": ""
+        "m²": "418.6 m²"
     },
     {
+        "\"ID\"": "Q.29 L.7",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "7",
@@ -62,10 +63,10 @@
         "Fundos": "8.0 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "38.5 m",
-        "m²": "431.3 m²",
-        "": ""
+        "m²": "431.3 m²"
     },
     {
+        "\"ID\"": "Q.29 L.8",
         "Proprietario": "COLONIZADORA",
         "Quadra": "29",
         "Lote": "8",
@@ -73,10 +74,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "37.0 m",
-        "m²": "402.1 m²",
-        "": ""
+        "m²": "402.1 m²"
     },
     {
+        "\"ID\"": "Q.29 L.9",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "9",
@@ -84,10 +85,10 @@
         "Fundos": "13.0 m",
         "Lateral 1": "36.0 m",
         "Lateral 2": "37.0 m",
-        "m²": "469.5 m²",
-        "": ""
+        "m²": "469.5 m²"
     },
     {
+        "\"ID\"": "Q.29 L.10",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "10",
@@ -95,10 +96,10 @@
         "Fundos": "18.0 m",
         "Lateral 1": "36.0 m",
         "Lateral 2": "33.0 m",
-        "m²": "501.0 m²",
-        "": ""
+        "m²": "501.0 m²"
     },
     {
+        "\"ID\"": "Q.29 L.11",
         "Proprietario": "COLONIZADORA",
         "Quadra": "29",
         "Lote": "11",
@@ -106,10 +107,10 @@
         "Fundos": "14.5 m",
         "Lateral 1": "33.0 m",
         "Lateral 2": "39.0 m",
-        "m²": "458.7 m²",
-        "": ""
+        "m²": "458.7 m²"
     },
     {
+        "\"ID\"": "Q.29 L.13",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "13",
@@ -117,10 +118,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "30.0 m",
-        "m²": "360.0 m²",
-        "": ""
+        "m²": "360.0 m²"
     },
     {
+        "\"ID\"": "Q.29 L.14",
         "Proprietario": "COLONIZADORA",
         "Quadra": "29",
         "Lote": "14",
@@ -128,10 +129,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "32.0 m",
         "Lateral 2": "30.0 m",
-        "m²": "409.0 m²",
-        "": ""
+        "m²": "409.0 m²"
     },
     {
+        "\"ID\"": "Q.29 L.16",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "16",
@@ -139,10 +140,10 @@
         "Fundos": "11.0 m",
         "Lateral 1": "32.5 m",
         "Lateral 2": "32.5 m",
-        "m²": "405.9 m²",
-        "": ""
+        "m²": "405.9 m²"
     },
     {
+        "\"ID\"": "Q.29 L.17",
         "Proprietario": "WCK",
         "Quadra": "29",
         "Lote": "17",
@@ -150,10 +151,10 @@
         "Fundos": "11.0 m",
         "Lateral 1": "32.5 m",
         "Lateral 2": "30.0 m",
-        "m²": "403.1 m²",
-        "": ""
+        "m²": "403.1 m²"
     },
     {
+        "\"ID\"": "Q.30 L.1",
         "Proprietario": "COLONIZADORA",
         "Quadra": "30",
         "Lote": "1",
@@ -161,10 +162,10 @@
         "Fundos": "30.0 m",
         "Lateral 1": "21.0 m",
         "Lateral 2": "38.5 m",
-        "m²": "574.5 m²",
-        "": ""
+        "m²": "574.5 m²"
     },
     {
+        "\"ID\"": "Q.30 L.2",
         "Proprietario": "COLONIZADORA",
         "Quadra": "30",
         "Lote": "2",
@@ -172,10 +173,10 @@
         "Fundos": "12.5 m",
         "Lateral 1": "29.0 m",
         "Lateral 2": "21.0 m",
-        "m²": "399.7 m²",
-        "": ""
+        "m²": "399.7 m²"
     },
     {
+        "\"ID\"": "Q.30 L.3",
         "Proprietario": "WCK",
         "Quadra": "30",
         "Lote": "3",
@@ -183,10 +184,10 @@
         "Fundos": "14.8 m",
         "Lateral 1": "29.0 m",
         "Lateral 2": "27.0 m",
-        "m²": "408.8 m²",
-        "": ""
+        "m²": "408.8 m²"
     },
     {
+        "\"ID\"": "Q.30 L.4",
         "Proprietario": "COLONIZADORA",
         "Quadra": "30",
         "Lote": "4",
@@ -194,10 +195,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "27.0 m",
         "Lateral 2": "32.5 m",
-        "m²": "372.2 m²",
-        "": ""
+        "m²": "372.2 m²"
     },
     {
+        "\"ID\"": "Q.30 L.5",
         "Proprietario": "WCK",
         "Quadra": "30",
         "Lote": "5",
@@ -205,10 +206,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "32.5 m",
         "Lateral 2": "32.5 m",
-        "m²": "429.4 m²",
-        "": ""
+        "m²": "429.4 m²"
     },
     {
+        "\"ID\"": "Q.30 L.6",
         "Proprietario": "WCK",
         "Quadra": "30",
         "Lote": "6",
@@ -216,10 +217,10 @@
         "Fundos": "10.0 m",
         "Lateral 1": "36.0 m",
         "Lateral 2": "32.5 m",
-        "m²": "444.0 m²",
-        "": ""
+        "m²": "444.0 m²"
     },
     {
+        "\"ID\"": "Q.30 L.7",
         "Proprietario": "COLONIZADORA",
         "Quadra": "30",
         "Lote": "7",
@@ -227,10 +228,10 @@
         "Fundos": "15.5 m",
         "Lateral 1": "44.5 m",
         "Lateral 2": "36.0 m",
-        "m²": "486.6 m²",
-        "": ""
+        "m²": "486.6 m²"
     },
     {
+        "\"ID\"": "Q.30 L.8",
         "Proprietario": "WCK",
         "Quadra": "30",
         "Lote": "8",
@@ -238,10 +239,10 @@
         "Fundos": "15.5 m",
         "Lateral 1": "34.5 m",
         "Lateral 2": "44.5 m",
-        "m²": "458.6 m²",
-        "": ""
+        "m²": "458.6 m²"
     },
     {
+        "\"ID\"": "Q.30 L.9",
         "Proprietario": "COLONIZADORA",
         "Quadra": "30",
         "Lote": "9",
@@ -249,10 +250,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "35.0 m",
         "Lateral 2": "34.5 m",
-        "m²": "477.5 m²",
-        "": ""
+        "m²": "477.5 m²"
     },
     {
+        "\"ID\"": "Q.30 L.10",
         "Proprietario": "WCK",
         "Quadra": "30",
         "Lote": "10",
@@ -260,10 +261,10 @@
         "Fundos": "16.5 m",
         "Lateral 1": "39.5 m",
         "Lateral 2": "35.0 m",
-        "m²": "504.7 m²",
-        "": ""
+        "m²": "504.7 m²"
     },
     {
+        "\"ID\"": "Q.30 L.11",
         "Proprietario": "WCK",
         "Quadra": "30",
         "Lote": "11",
@@ -271,10 +272,10 @@
         "Fundos": "17.0 m",
         "Lateral 1": "34.0 m",
         "Lateral 2": "39.5 m",
-        "m²": "542.7 m²",
-        "": ""
+        "m²": "542.7 m²"
     },
     {
+        "\"ID\"": "Q.30 L.12",
         "Proprietario": "COLONIZADORA",
         "Quadra": "30",
         "Lote": "12",
@@ -282,10 +283,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "34.0 m",
         "Lateral 2": "31.0 m",
-        "m²": "462.0 m²",
-        "": ""
+        "m²": "462.0 m²"
     },
     {
+        "\"ID\"": "Q.30 L.13",
         "Proprietario": "WCK",
         "Quadra": "30",
         "Lote": "13",
@@ -293,10 +294,10 @@
         "Fundos": "15.5 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "31.0 m",
-        "m²": "404.9 m²",
-        "": ""
+        "m²": "404.9 m²"
     },
     {
+        "\"ID\"": "Q.31 L.3",
         "Proprietario": "COLONIZADORA",
         "Quadra": "31",
         "Lote": "3",
@@ -304,10 +305,10 @@
         "Fundos": "17.5 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "50.0 m",
-        "m²": "634.6 m²",
-        "": ""
+        "m²": "634.6 m²"
     },
     {
+        "\"ID\"": "Q.31 L.4",
         "Proprietario": "WCK",
         "Quadra": "31",
         "Lote": "4",
@@ -315,10 +316,10 @@
         "Fundos": "12.5 m",
         "Lateral 1": "46.2 m",
         "Lateral 2": "50.0 m",
-        "m²": "577.2 m²",
-        "": ""
+        "m²": "577.2 m²"
     },
     {
+        "\"ID\"": "Q.31 L.5",
         "Proprietario": "WCK",
         "Quadra": "31",
         "Lote": "5",
@@ -326,10 +327,10 @@
         "Fundos": "12.5 m",
         "Lateral 1": "45.0 m",
         "Lateral 2": "46.2 m",
-        "m²": "555.2 m²",
-        "": ""
+        "m²": "555.2 m²"
     },
     {
+        "\"ID\"": "Q.31 L.6",
         "Proprietario": "COLONIZADORA",
         "Quadra": "31",
         "Lote": "6",
@@ -337,10 +338,10 @@
         "Fundos": "16.2 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "45.0 m",
-        "m²": "519.4 m²",
-        "": ""
+        "m²": "519.4 m²"
     },
     {
+        "\"ID\"": "Q.31 L.7",
         "Proprietario": "WCK",
         "Quadra": "31",
         "Lote": "7",
@@ -348,10 +349,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "35.5 m",
-        "m²": "451.4 m²",
-        "": ""
+        "m²": "451.4 m²"
     },
     {
+        "\"ID\"": "Q.31 L.8",
         "Proprietario": "COLONIZADORA",
         "Quadra": "31",
         "Lote": "8",
@@ -359,10 +360,10 @@
         "Fundos": "17.5 m",
         "Lateral 1": "33.0 m",
         "Lateral 2": "35.5 m",
-        "m²": "477.9 m²",
-        "": ""
+        "m²": "477.9 m²"
     },
     {
+        "\"ID\"": "Q.31 L.9",
         "Proprietario": "WCK",
         "Quadra": "31",
         "Lote": "9",
@@ -370,10 +371,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "33.0 m",
         "Lateral 2": "33.0 m",
-        "m²": "441.8 m²",
-        "": ""
+        "m²": "441.8 m²"
     },
     {
+        "\"ID\"": "Q.31 L.10",
         "Proprietario": "WCK",
         "Quadra": "31",
         "Lote": "10",
@@ -381,10 +382,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "33.0 m",
-        "m²": "461.2 m²",
-        "": ""
+        "m²": "461.2 m²"
     },
     {
+        "\"ID\"": "Q.31 L.11",
         "Proprietario": "COLONIZADORA",
         "Quadra": "31",
         "Lote": "11",
@@ -392,10 +393,10 @@
         "Fundos": "13.0 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "36.5 m",
-        "m²": "455.1 m²",
-        "": ""
+        "m²": "455.1 m²"
     },
     {
+        "\"ID\"": "Q.31 L.12",
         "Proprietario": "WCK",
         "Quadra": "31",
         "Lote": "12",
@@ -403,10 +404,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "36.5 m",
         "Lateral 2": "39.0 m",
-        "m²": "417.9 m²",
-        "": ""
+        "m²": "417.9 m²"
     },
     {
+        "\"ID\"": "Q.31 L.13",
         "Proprietario": "COLONIZADORA",
         "Quadra": "31",
         "Lote": "13",
@@ -414,10 +415,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "41.0 m",
-        "m²": "445.3 m²",
-        "": ""
+        "m²": "445.3 m²"
     },
     {
+        "\"ID\"": "Q.31 L.14",
         "Proprietario": "WCK",
         "Quadra": "31",
         "Lote": "14",
@@ -425,10 +426,10 @@
         "Fundos": "8.8 m",
         "Lateral 1": "41.0 m",
         "Lateral 2": "41.0 m",
-        "m²": "453.8 m²",
-        "": ""
+        "m²": "453.8 m²"
     },
     {
+        "\"ID\"": "Q.32 L.1",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "1",
@@ -436,10 +437,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "42.0 m",
-        "m²": "496.1 m²",
-        "": ""
+        "m²": "496.1 m²"
     },
     {
+        "\"ID\"": "Q.32 L.2",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "2",
@@ -447,10 +448,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "42.0 m",
         "Lateral 2": "42.0 m",
-        "m²": "499.0 m²",
-        "": ""
+        "m²": "499.0 m²"
     },
     {
+        "\"ID\"": "Q.32 L.3",
         "Proprietario": "COLONIZADORA",
         "Quadra": "32",
         "Lote": "3",
@@ -458,10 +459,10 @@
         "Fundos": "14.0 m",
         "Lateral 1": "42.0 m",
         "Lateral 2": "44.0 m",
-        "m²": "543.5 m²",
-        "": ""
+        "m²": "543.5 m²"
     },
     {
+        "\"ID\"": "Q.32 L.4",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "4",
@@ -469,10 +470,10 @@
         "Fundos": "17.0 m",
         "Lateral 1": "44.0 m",
         "Lateral 2": "41.8 m",
-        "m²": "591.5 m²",
-        "": ""
+        "m²": "591.5 m²"
     },
     {
+        "\"ID\"": "Q.32 L.5",
         "Proprietario": "COLONIZADORA",
         "Quadra": "32",
         "Lote": "5",
@@ -480,10 +481,10 @@
         "Fundos": "18.0 m",
         "Lateral 1": "41.8 m",
         "Lateral 2": "45.0 m",
-        "m²": "703.6 m²",
-        "": ""
+        "m²": "703.6 m²"
     },
     {
+        "\"ID\"": "Q.32 L.6",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "6",
@@ -491,10 +492,10 @@
         "Fundos": "18.5 m",
         "Lateral 1": "45.0 m",
         "Lateral 2": "50.5 m",
-        "m²": "711.5 m²",
-        "": ""
+        "m²": "711.5 m²"
     },
     {
+        "\"ID\"": "Q.32 L.7",
         "Proprietario": "COLONIZADORA",
         "Quadra": "32",
         "Lote": "7",
@@ -502,10 +503,10 @@
         "Fundos": "20.5 m",
         "Lateral 1": "50.5 m",
         "Lateral 2": "58.0 m",
-        "m²": "821.0 m²",
-        "": ""
+        "m²": "821.0 m²"
     },
     {
+        "\"ID\"": "Q.32 L.8",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "8",
@@ -513,10 +514,10 @@
         "Fundos": "20.0 m",
         "Lateral 1": "52.5 m",
         "Lateral 2": "58.0 m",
-        "m²": "882.5 m²",
-        "": ""
+        "m²": "882.5 m²"
     },
     {
+        "\"ID\"": "Q.32 L.9",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "9",
@@ -524,10 +525,10 @@
         "Fundos": "19.0 m",
         "Lateral 1": "52.5 m",
         "Lateral 2": "49.5 m",
-        "m²": "803.8 m²",
-        "": ""
+        "m²": "803.8 m²"
     },
     {
+        "\"ID\"": "Q.32 L.10",
         "Proprietario": "COLONIZADORA",
         "Quadra": "32",
         "Lote": "10",
@@ -535,10 +536,10 @@
         "Fundos": "10.8 m",
         "Lateral 1": "49.5 m",
         "Lateral 2": "48.5 m",
-        "m²": "635.9 m²",
-        "": ""
+        "m²": "635.9 m²"
     },
     {
+        "\"ID\"": "Q.32 L.11",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "11",
@@ -546,10 +547,10 @@
         "Fundos": "10.2 m",
         "Lateral 1": "48.5 m",
         "Lateral 2": "46.5 m",
-        "m²": "538.9 m²",
-        "": ""
+        "m²": "538.9 m²"
     },
     {
+        "\"ID\"": "Q.32 L.12",
         "Proprietario": "COLONIZADORA",
         "Quadra": "32",
         "Lote": "12",
@@ -557,10 +558,10 @@
         "Fundos": "10.2 m",
         "Lateral 1": "46.5 m",
         "Lateral 2": "43.5 m",
-        "m²": "526.4 m²",
-        "": ""
+        "m²": "526.4 m²"
     },
     {
+        "\"ID\"": "Q.32 L.13",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "13",
@@ -568,10 +569,10 @@
         "Fundos": "11.0 m",
         "Lateral 1": "43.5 m",
         "Lateral 2": "40.0 m",
-        "m²": "505.2 m²",
-        "": ""
+        "m²": "505.2 m²"
     },
     {
+        "\"ID\"": "Q.32 L.14",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "14",
@@ -579,10 +580,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "38.0 m",
-        "m²": "474.0 m²",
-        "": ""
+        "m²": "474.0 m²"
     },
     {
+        "\"ID\"": "Q.32 L.15",
         "Proprietario": "COLONIZADORA",
         "Quadra": "32",
         "Lote": "15",
@@ -590,10 +591,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "37.0 m",
         "Lateral 2": "37.0 m",
-        "m²": "563.1 m²",
-        "": ""
+        "m²": "563.1 m²"
     },
     {
+        "\"ID\"": "Q.32 L.16",
         "Proprietario": "WCK",
         "Quadra": "32",
         "Lote": "16",
@@ -601,10 +602,10 @@
         "Fundos": "15.5 m",
         "Lateral 1": "37.0 m",
         "Lateral 2": "35.0 m",
-        "m²": "494.5 m²",
-        "": ""
+        "m²": "494.5 m²"
     },
     {
+        "\"ID\"": "Q.33 L.1",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "1",
@@ -612,10 +613,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "37.0 m",
         "Lateral 2": "38.0 m",
-        "m²": "449.0 m²",
-        "": ""
+        "m²": "449.0 m²"
     },
     {
+        "\"ID\"": "Q.33 L.2",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "2",
@@ -623,10 +624,10 @@
         "Fundos": "11.5 m",
         "Lateral 1": "38.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "458.2 m²",
-        "": ""
+        "m²": "458.2 m²"
     },
     {
+        "\"ID\"": "Q.33 L.3",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "3",
@@ -634,10 +635,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "42.0 m",
-        "m²": "492.0 m²",
-        "": ""
+        "m²": "492.0 m²"
     },
     {
+        "\"ID\"": "Q.33 L.4",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "4",
@@ -645,10 +646,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "42.0 m",
         "Lateral 2": "46.0 m",
-        "m²": "586.0 m²",
-        "": ""
+        "m²": "586.0 m²"
     },
     {
+        "\"ID\"": "Q.33 L.5",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "5",
@@ -656,10 +657,10 @@
         "Fundos": "9.1 m",
         "Lateral 1": "46.0 m",
         "Lateral 2": "52.9 m",
-        "m²": "781.7 m²",
-        "": ""
+        "m²": "781.7 m²"
     },
     {
+        "\"ID\"": "Q.33 L.6",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "6",
@@ -667,10 +668,10 @@
         "Fundos": "8.4 m",
         "Lateral 1": "52.9 m",
         "Lateral 2": "55.8 m",
-        "m²": "806.9 m²",
-        "": ""
+        "m²": "806.9 m²"
     },
     {
+        "\"ID\"": "Q.33 L.7",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "7",
@@ -678,10 +679,10 @@
         "Fundos": "11.0 m",
         "Lateral 1": "55.8 m",
         "Lateral 2": "56.8 m",
-        "m²": "796.1 m²",
-        "": ""
+        "m²": "796.1 m²"
     },
     {
+        "\"ID\"": "Q.33 L.8",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "8",
@@ -689,10 +690,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "56.8 m",
         "Lateral 2": "55.6 m",
-        "m²": "843.0 m²",
-        "": ""
+        "m²": "843.0 m²"
     },
     {
+        "\"ID\"": "Q.33 L.9",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "9",
@@ -700,10 +701,10 @@
         "Fundos": "13.8 m",
         "Lateral 1": "55.6 m",
         "Lateral 2": "54.5 m",
-        "m²": "765.2 m²",
-        "": ""
+        "m²": "765.2 m²"
     },
     {
+        "\"ID\"": "Q.33 L.10",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "10",
@@ -711,10 +712,10 @@
         "Fundos": "13.8 m",
         "Lateral 1": "54.5 m",
         "Lateral 2": "52.1 m",
-        "m²": "742.4 m²",
-        "": ""
+        "m²": "742.4 m²"
     },
     {
+        "\"ID\"": "Q.33 L.11",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "11",
@@ -722,10 +723,10 @@
         "Fundos": "9.1 m",
         "Lateral 1": "52.1 m",
         "Lateral 2": "52.2 m",
-        "m²": "640.8 m²",
-        "": ""
+        "m²": "640.8 m²"
     },
     {
+        "\"ID\"": "Q.33 L.12",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "12",
@@ -733,10 +734,10 @@
         "Fundos": "7.5 m",
         "Lateral 1": "52.2 m",
         "Lateral 2": "53.9 m",
-        "m²": "750.1 m²",
-        "": ""
+        "m²": "750.1 m²"
     },
     {
+        "\"ID\"": "Q.33 L.13",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "13",
@@ -744,10 +745,10 @@
         "Fundos": "1.0 m",
         "Lateral 1": "53.9 m",
         "Lateral 2": "57.0 m",
-        "m²": "780.7 m²",
-        "": ""
+        "m²": "780.7 m²"
     },
     {
+        "\"ID\"": "Q.33 L.14",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "14",
@@ -755,10 +756,10 @@
         "Fundos": "13.5 m",
         "Lateral 1": "57.0 m",
         "Lateral 2": "54.5 m",
-        "m²": "867.7 m²",
-        "": ""
+        "m²": "867.7 m²"
     },
     {
+        "\"ID\"": "Q.33 L.15",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "15",
@@ -766,10 +767,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "54.5 m",
         "Lateral 2": "50.8 m",
-        "m²": "678.0 m²",
-        "": ""
+        "m²": "678.0 m²"
     },
     {
+        "\"ID\"": "Q.33 L.16",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "16",
@@ -777,10 +778,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "50.8 m",
         "Lateral 2": "47.0 m",
-        "m²": "679.8 m²",
-        "": ""
+        "m²": "679.8 m²"
     },
     {
+        "\"ID\"": "Q.33 L.18",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "18",
@@ -788,10 +789,10 @@
         "Fundos": "12.5 m",
         "Lateral 1": "40.4 m",
         "Lateral 2": "31.0 m",
-        "m²": "475.2 m²",
-        "": ""
+        "m²": "475.2 m²"
     },
     {
+        "\"ID\"": "Q.33 L.19",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "19",
@@ -799,10 +800,10 @@
         "Fundos": "12.5 m",
         "Lateral 1": "31.0 m",
         "Lateral 2": "31.5 m",
-        "m²": "436.7 m²",
-        "": ""
+        "m²": "436.7 m²"
     },
     {
+        "\"ID\"": "Q.33 L.20",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "20",
@@ -810,10 +811,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "31.5 m",
         "Lateral 2": "33.0 m",
-        "m²": "409.0 m²",
-        "": ""
+        "m²": "409.0 m²"
     },
     {
+        "\"ID\"": "Q.33 L.21",
         "Proprietario": "WCK",
         "Quadra": "33",
         "Lote": "21",
@@ -821,10 +822,10 @@
         "Fundos": "12.1 m",
         "Lateral 1": "33.0 m",
         "Lateral 2": "31.9 m",
-        "m²": "392.0 m²",
-        "": ""
+        "m²": "392.0 m²"
     },
     {
+        "\"ID\"": "Q.33 L.22",
         "Proprietario": "COLONIZADORA",
         "Quadra": "33",
         "Lote": "22",
@@ -832,10 +833,10 @@
         "Fundos": "13.0 m",
         "Lateral 1": "31.9 m",
         "Lateral 2": "30.5 m",
-        "m²": "394.0 m²",
-        "": ""
+        "m²": "394.0 m²"
     },
     {
+        "\"ID\"": "Q.34 L.1",
         "Proprietario": "WCK",
         "Quadra": "34",
         "Lote": "1",
@@ -843,10 +844,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "21.5 m",
         "Lateral 2": "30.0 m",
-        "m²": "342.5 m²",
-        "": ""
+        "m²": "342.5 m²"
     },
     {
+        "\"ID\"": "Q.34 L.2",
         "Proprietario": "WCK",
         "Quadra": "34",
         "Lote": "2",
@@ -854,10 +855,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "37.0 m",
-        "m²": "432.0 m²",
-        "": ""
+        "m²": "432.0 m²"
     },
     {
+        "\"ID\"": "Q.34 L.3",
         "Proprietario": "COLONIZADORA",
         "Quadra": "34",
         "Lote": "3",
@@ -865,10 +866,10 @@
         "Fundos": "14.5 m",
         "Lateral 1": "37.0 m",
         "Lateral 2": "39.0 m",
-        "m²": "574.3 m²",
-        "": ""
+        "m²": "574.3 m²"
     },
     {
+        "\"ID\"": "Q.34 L.4",
         "Proprietario": "WCK",
         "Quadra": "34",
         "Lote": "4",
@@ -876,10 +877,10 @@
         "Fundos": "11.0 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "527.9 m²",
-        "": ""
+        "m²": "527.9 m²"
     },
     {
+        "\"ID\"": "Q.34 L.5",
         "Proprietario": "COLONIZADORA",
         "Quadra": "34",
         "Lote": "5",
@@ -887,10 +888,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "39.0 m",
-        "m²": "482.5 m²",
-        "": ""
+        "m²": "482.5 m²"
     },
     {
+        "\"ID\"": "Q.34 L.6",
         "Proprietario": "WCK",
         "Quadra": "34",
         "Lote": "6",
@@ -898,10 +899,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "630.2 m²",
-        "": ""
+        "m²": "630.2 m²"
     },
     {
+        "\"ID\"": "Q.34 L.7",
         "Proprietario": "WCK",
         "Quadra": "34",
         "Lote": "7",
@@ -909,10 +910,10 @@
         "Fundos": "14.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "559.0 m²",
-        "": ""
+        "m²": "559.0 m²"
     },
     {
+        "\"ID\"": "Q.34 L.8",
         "Proprietario": "COLONIZADORA",
         "Quadra": "34",
         "Lote": "8",
@@ -920,10 +921,10 @@
         "Fundos": "12.5 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "494.0 m²",
-        "": ""
+        "m²": "494.0 m²"
     },
     {
+        "\"ID\"": "Q.34 L.9",
         "Proprietario": "WCK",
         "Quadra": "34",
         "Lote": "9",
@@ -931,10 +932,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "480.0 m²",
-        "": ""
+        "m²": "480.0 m²"
     },
     {
+        "\"ID\"": "Q.34 L.10",
         "Proprietario": "COLONIZADORA",
         "Quadra": "34",
         "Lote": "10",
@@ -942,10 +943,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "480.0 m²",
-        "": ""
+        "m²": "480.0 m²"
     },
     {
+        "\"ID\"": "Q.34 L.11",
         "Proprietario": "WCK",
         "Quadra": "34",
         "Lote": "11",
@@ -953,10 +954,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "480.0 m²",
-        "": ""
+        "m²": "480.0 m²"
     },
     {
+        "\"ID\"": "Q.34 L.12",
         "Proprietario": "WCK",
         "Quadra": "34",
         "Lote": "12",
@@ -964,10 +965,10 @@
         "Fundos": "13.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "506.0 m²",
-        "": ""
+        "m²": "506.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.1",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "1",
@@ -975,10 +976,10 @@
         "Fundos": "15.5 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "27.0 m",
-        "m²": "441.1 m²",
-        "": ""
+        "m²": "441.1 m²"
     },
     {
+        "\"ID\"": "Q.35 L.2",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "2",
@@ -986,10 +987,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "27.0 m",
         "Lateral 2": "27.0 m",
-        "m²": "363.8 m²",
-        "": ""
+        "m²": "363.8 m²"
     },
     {
+        "\"ID\"": "Q.35 L.3",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "3",
@@ -997,10 +998,10 @@
         "Fundos": "17.0 m",
         "Lateral 1": "27.0 m",
         "Lateral 2": "28.0 m",
-        "m²": "397.2 m²",
-        "": ""
+        "m²": "397.2 m²"
     },
     {
+        "\"ID\"": "Q.35 L.4",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "4",
@@ -1008,10 +1009,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "32.0 m",
-        "m²": "417.1 m²",
-        "": ""
+        "m²": "417.1 m²"
     },
     {
+        "\"ID\"": "Q.35 L.5",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "5",
@@ -1019,10 +1020,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "32.0 m",
         "Lateral 2": "27.5 m",
-        "m²": "385.5 m²",
-        "": ""
+        "m²": "385.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.6",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "6",
@@ -1030,10 +1031,10 @@
         "Fundos": "18.5 m",
         "Lateral 1": "27.5 m",
         "Lateral 2": "25.0 m",
-        "m²": "355.2 m²",
-        "": ""
+        "m²": "355.2 m²"
     },
     {
+        "\"ID\"": "Q.35 L.7",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "7",
@@ -1041,10 +1042,10 @@
         "Fundos": "17.0 m",
         "Lateral 1": "25.0 m",
         "Lateral 2": "25.0 m",
-        "m²": "351.0 m²",
-        "": ""
+        "m²": "351.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.8",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "8",
@@ -1052,10 +1053,10 @@
         "Fundos": "15.5 m",
         "Lateral 1": "25.0 m",
         "Lateral 2": "25.5 m",
-        "m²": "362.8 m²",
-        "": ""
+        "m²": "362.8 m²"
     },
     {
+        "\"ID\"": "Q.35 L.9",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "9",
@@ -1063,10 +1064,10 @@
         "Fundos": "17.0 m",
         "Lateral 1": "25.5 m",
         "Lateral 2": "26.5 m",
-        "m²": "364.0 m²",
-        "": ""
+        "m²": "364.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.10",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "10",
@@ -1074,10 +1075,10 @@
         "Fundos": "14.0 m",
         "Lateral 1": "26.5 m",
         "Lateral 2": "27.5 m",
-        "m²": "372.0 m²",
-        "": ""
+        "m²": "372.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.11",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "11",
@@ -1085,10 +1086,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "27.5 m",
         "Lateral 2": "29.0 m",
-        "m²": "375.2 m²",
-        "": ""
+        "m²": "375.2 m²"
     },
     {
+        "\"ID\"": "Q.35 L.12",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "12",
@@ -1096,10 +1097,10 @@
         "Fundos": "16.5 m",
         "Lateral 1": "29.0 m",
         "Lateral 2": "30.0 m",
-        "m²": "400.5 m²",
-        "": ""
+        "m²": "400.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.13",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "13",
@@ -1107,10 +1108,10 @@
         "Fundos": "19.0 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "36.0 m",
-        "m²": "538.5 m²",
-        "": ""
+        "m²": "538.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.14",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "14",
@@ -1118,10 +1119,10 @@
         "Fundos": "19.5 m",
         "Lateral 1": "36.0 m",
         "Lateral 2": "38.0 m",
-        "m²": "764.7 m²",
-        "": ""
+        "m²": "764.7 m²"
     },
     {
+        "\"ID\"": "Q.35 L.15",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "15",
@@ -1129,10 +1130,10 @@
         "Fundos": "30.0 m",
         "Lateral 1": "38.0 m",
         "Lateral 2": "37.0 m",
-        "m²": "884.5 m²",
-        "": ""
+        "m²": "884.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.16",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "16",
@@ -1140,10 +1141,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "37.0 m",
         "Lateral 2": "34.0 m",
-        "m²": "583.5 m²",
-        "": ""
+        "m²": "583.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.17",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "17",
@@ -1151,10 +1152,10 @@
         "Fundos": "13.5 m",
         "Lateral 1": "34.0 m",
         "Lateral 2": "33.0 m",
-        "m²": "422.4 m²",
-        "": ""
+        "m²": "422.4 m²"
     },
     {
+        "\"ID\"": "Q.35 L.18",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "18",
@@ -1162,10 +1163,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "33.0 m",
         "Lateral 2": "31.0 m",
-        "m²": "384.0 m²",
-        "": ""
+        "m²": "384.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.19",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "19",
@@ -1173,10 +1174,10 @@
         "Fundos": "10.5 m",
         "Lateral 1": "31.0 m",
         "Lateral 2": "29.0 m",
-        "m²": "394.2 m²",
-        "": ""
+        "m²": "394.2 m²"
     },
     {
+        "\"ID\"": "Q.35 L.20",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "20",
@@ -1184,10 +1185,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "29.0 m",
         "Lateral 2": "27.0 m",
-        "m²": "445.5 m²",
-        "": ""
+        "m²": "445.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.21",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "21",
@@ -1195,10 +1196,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "27.0 m",
         "Lateral 2": "25.0 m",
-        "m²": "397.5 m²",
-        "": ""
+        "m²": "397.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.22",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "22",
@@ -1206,10 +1207,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "25.0 m",
         "Lateral 2": "26.0 m",
-        "m²": "403.0 m²",
-        "": ""
+        "m²": "403.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.23",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "23",
@@ -1217,10 +1218,10 @@
         "Fundos": "17.5 m",
         "Lateral 1": "26.0 m",
         "Lateral 2": "25.0 m",
-        "m²": "503.6 m²",
-        "": ""
+        "m²": "503.6 m²"
     },
     {
+        "\"ID\"": "Q.35 L.24",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "24",
@@ -1228,10 +1229,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "25.0 m",
         "Lateral 2": "23.0 m",
-        "m²": "456.0 m²",
-        "": ""
+        "m²": "456.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.25",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "25",
@@ -1239,10 +1240,10 @@
         "Fundos": "18.0 m",
         "Lateral 1": "23.0 m",
         "Lateral 2": "15.0 m",
-        "m²": "383.5 m²",
-        "": ""
+        "m²": "383.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.26",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "26",
@@ -1250,10 +1251,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "34.0 m",
-        "m²": "449.0 m²",
-        "": ""
+        "m²": "449.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.27",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "27",
@@ -1261,10 +1262,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "34.0 m",
         "Lateral 2": "30.0 m",
-        "m²": "384.0 m²",
-        "": ""
+        "m²": "384.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.28",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "28",
@@ -1272,10 +1273,10 @@
         "Fundos": "11.0 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "28.0 m",
-        "m²": "377.0 m²",
-        "": ""
+        "m²": "377.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.29",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "29",
@@ -1283,10 +1284,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "29.0 m",
-        "m²": "385.0 m²",
-        "": ""
+        "m²": "385.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.30",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "30",
@@ -1294,10 +1295,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "29.0 m",
         "Lateral 2": "31.0 m",
-        "m²": "375.0 m²",
-        "": ""
+        "m²": "375.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.31",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "31",
@@ -1305,10 +1306,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "31.0 m",
         "Lateral 2": "30.0 m",
-        "m²": "366.0 m²",
-        "": ""
+        "m²": "366.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.32",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "32",
@@ -1316,10 +1317,10 @@
         "Fundos": "13.0 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "28.0 m",
-        "m²": "362.5 m²",
-        "": ""
+        "m²": "362.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.33",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "33",
@@ -1327,10 +1328,10 @@
         "Fundos": "28.0 m",
         "Lateral 1": "-",
         "Lateral 2": "-",
-        "m²": "434.0 m²",
-        "": ""
+        "m²": "434.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.34",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "34",
@@ -1338,10 +1339,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "25.0 m",
         "Lateral 2": "24.0 m",
-        "m²": "367.5 m²",
-        "": ""
+        "m²": "367.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.35",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "35",
@@ -1349,10 +1350,10 @@
         "Fundos": "18.0 m",
         "Lateral 1": "24.0 m",
         "Lateral 2": "23.0 m",
-        "m²": "387.7 m²",
-        "": ""
+        "m²": "387.7 m²"
     },
     {
+        "\"ID\"": "Q.35 L.37",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "37",
@@ -1360,10 +1361,10 @@
         "Fundos": "20.0 m",
         "Lateral 1": "22.0 m",
         "Lateral 2": "25.0 m",
-        "m²": "368.0 m²",
-        "": ""
+        "m²": "368.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.38",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "38",
@@ -1371,10 +1372,10 @@
         "Fundos": "20.0 m",
         "Lateral 1": "25.0 m",
         "Lateral 2": "32.0 m",
-        "m²": "483.7 m²",
-        "": ""
+        "m²": "483.7 m²"
     },
     {
+        "\"ID\"": "Q.35 L.39",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "39",
@@ -1382,10 +1383,10 @@
         "Fundos": "18.0 m",
         "Lateral 1": "32.0 m",
         "Lateral 2": "32.0 m",
-        "m²": "467.2 m²",
-        "": ""
+        "m²": "467.2 m²"
     },
     {
+        "\"ID\"": "Q.35 L.40",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "40",
@@ -1393,10 +1394,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "32.0 m",
         "Lateral 2": "34.0 m",
-        "m²": "470.2 m²",
-        "": ""
+        "m²": "470.2 m²"
     },
     {
+        "\"ID\"": "Q.35 L.41",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "41",
@@ -1404,10 +1405,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "34.0 m",
         "Lateral 2": "37.0 m",
-        "m²": "426.0 m²",
-        "": ""
+        "m²": "426.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.43",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "43",
@@ -1415,10 +1416,10 @@
         "Fundos": "8.0 m",
         "Lateral 1": "43.0 m",
         "Lateral 2": "47.6 m",
-        "m²": "581.1 m²",
-        "": ""
+        "m²": "581.1 m²"
     },
     {
+        "\"ID\"": "Q.35 L.44",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "44",
@@ -1426,10 +1427,10 @@
         "Fundos": "5.0 m",
         "Lateral 1": "47.6 m",
         "Lateral 2": "46.0 m",
-        "m²": "643.7 m²",
-        "": ""
+        "m²": "643.7 m²"
     },
     {
+        "\"ID\"": "Q.35 L.45",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "45",
@@ -1437,10 +1438,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "46.0 m",
         "Lateral 2": "44.5 m",
-        "m²": "565.6 m²",
-        "": ""
+        "m²": "565.6 m²"
     },
     {
+        "\"ID\"": "Q.35 L.46",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "46",
@@ -1448,10 +1449,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "44.5 m",
         "Lateral 2": "42.0 m",
-        "m²": "607.6 m²",
-        "": ""
+        "m²": "607.6 m²"
     },
     {
+        "\"ID\"": "Q.35 L.47",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "47",
@@ -1459,10 +1460,10 @@
         "Fundos": "13.0 m",
         "Lateral 1": "42.0 m",
         "Lateral 2": "35.0 m",
-        "m²": "378.5 m²",
-        "": ""
+        "m²": "378.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.48",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "48",
@@ -1470,10 +1471,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "35.0 m",
         "Lateral 2": "32.0 m",
-        "m²": "368.5 m²",
-        "": ""
+        "m²": "368.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.51",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "51",
@@ -1481,10 +1482,10 @@
         "Fundos": "15.4 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "26.0 m",
-        "m²": "361.8 m²",
-        "": ""
+        "m²": "361.8 m²"
     },
     {
+        "\"ID\"": "Q.35 L.52",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "52",
@@ -1492,10 +1493,10 @@
         "Fundos": "14.0 m",
         "Lateral 1": "26.0 m",
         "Lateral 2": "26.0 m",
-        "m²": "361.9 m²",
-        "": ""
+        "m²": "361.9 m²"
     },
     {
+        "\"ID\"": "Q.35 L.53",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "53",
@@ -1503,10 +1504,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "26.0 m",
         "Lateral 2": "26.0 m",
-        "m²": "387.7 m²",
-        "": ""
+        "m²": "387.7 m²"
     },
     {
+        "\"ID\"": "Q.35 L.54",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "54",
@@ -1514,10 +1515,10 @@
         "Fundos": "13.5 m",
         "Lateral 1": "26.0 m",
         "Lateral 2": "28.0 m",
-        "m²": "367.5 m²",
-        "": ""
+        "m²": "367.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.55",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "55",
@@ -1525,10 +1526,10 @@
         "Fundos": "12.5 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "30.0 m",
-        "m²": "362.0 m²",
-        "": ""
+        "m²": "362.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.56",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "56",
@@ -1536,10 +1537,10 @@
         "Fundos": "11.7 m",
         "Lateral 1": "30.0 m",
         "Lateral 2": "32.0 m",
-        "m²": "362.7 m²",
-        "": ""
+        "m²": "362.7 m²"
     },
     {
+        "\"ID\"": "Q.35 L.57",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "57",
@@ -1547,10 +1548,10 @@
         "Fundos": "11.3 m",
         "Lateral 1": "32.0 m",
         "Lateral 2": "35.0 m",
-        "m²": "378.5 m²",
-        "": ""
+        "m²": "378.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.58",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "58",
@@ -1558,10 +1559,10 @@
         "Fundos": "13.0 m",
         "Lateral 1": "35.0 m",
         "Lateral 2": "36.0 m",
-        "m²": "519.0 m²",
-        "": ""
+        "m²": "519.0 m²"
     },
     {
+        "\"ID\"": "Q.35 L.59",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "59",
@@ -1569,10 +1570,10 @@
         "Fundos": "10.0 m",
         "Lateral 1": "36.0 m",
         "Lateral 2": "37.0 m",
-        "m²": "534.5 m²",
-        "": ""
+        "m²": "534.5 m²"
     },
     {
+        "\"ID\"": "Q.35 L.60",
         "Proprietario": "COLONIZADORA",
         "Quadra": "35",
         "Lote": "60",
@@ -1580,10 +1581,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "37.0 m",
         "Lateral 2": "38.0 m",
-        "m²": "573.2 m²",
-        "": ""
+        "m²": "573.2 m²"
     },
     {
+        "\"ID\"": "Q.35 L.61",
         "Proprietario": "WCK",
         "Quadra": "35",
         "Lote": "61",
@@ -1591,10 +1592,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "38.0 m",
         "Lateral 2": "31.0 m",
-        "m²": "593.8 m²",
-        "": ""
+        "m²": "593.8 m²"
     },
     {
+        "\"ID\"": "Q.36 L.1",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "1",
@@ -1602,10 +1603,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "39.7 m",
-        "m²": "538.0 m²",
-        "": ""
+        "m²": "538.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.2",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "2",
@@ -1613,10 +1614,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "39.7 m",
         "Lateral 2": "39.8 m",
-        "m²": "536.6 m²",
-        "": ""
+        "m²": "536.6 m²"
     },
     {
+        "\"ID\"": "Q.36 L.3",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "3",
@@ -1624,10 +1625,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "39.8 m",
         "Lateral 2": "40.0 m",
-        "m²": "538.6 m²",
-        "": ""
+        "m²": "538.6 m²"
     },
     {
+        "\"ID\"": "Q.36 L.4",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "4",
@@ -1635,10 +1636,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "40.0 m",
-        "m²": "540.0 m²",
-        "": ""
+        "m²": "540.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.5",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "5",
@@ -1646,10 +1647,10 @@
         "Fundos": "7.0 m",
         "Lateral 1": "40.0 m",
         "Lateral 2": "31.0 m",
-        "m²": "587.5 m²",
-        "": ""
+        "m²": "587.5 m²"
     },
     {
+        "\"ID\"": "Q.36 L.6",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "6",
@@ -1657,10 +1658,10 @@
         "Fundos": "19.0 m",
         "Lateral 1": "31.0 m",
         "Lateral 2": "28.0 m",
-        "m²": "449.9 m²",
-        "": ""
+        "m²": "449.9 m²"
     },
     {
+        "\"ID\"": "Q.36 L.7",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "7",
@@ -1668,10 +1669,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "29.0 m",
-        "m²": "376.5 m²",
-        "": ""
+        "m²": "376.5 m²"
     },
     {
+        "\"ID\"": "Q.36 L.8",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "8",
@@ -1679,10 +1680,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "29.0 m",
         "Lateral 2": "26.0 m",
-        "m²": "376.0 m²",
-        "": ""
+        "m²": "376.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.9",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "9",
@@ -1690,10 +1691,10 @@
         "Fundos": "20.0 m",
         "Lateral 1": "26.0 m",
         "Lateral 2": "21.0 m",
-        "m²": "399.5 m²",
-        "": ""
+        "m²": "399.5 m²"
     },
     {
+        "\"ID\"": "Q.36 L.10",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "10",
@@ -1701,10 +1702,10 @@
         "Fundos": "22.0 m",
         "Lateral 1": "21.0 m",
         "Lateral 2": "21.6 m",
-        "m²": "362.0 m²",
-        "": ""
+        "m²": "362.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.11",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "11",
@@ -1712,10 +1713,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "39.6 m",
         "Lateral 2": "32.0 m",
-        "m²": "465.0 m²",
-        "": ""
+        "m²": "465.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.12",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "12",
@@ -1723,10 +1724,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "32.0 m",
         "Lateral 2": "39.0 m",
-        "m²": "462.0 m²",
-        "": ""
+        "m²": "462.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.13",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "13",
@@ -1734,10 +1735,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "41.5 m",
-        "m²": "483.0 m²",
-        "": ""
+        "m²": "483.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.14",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "14",
@@ -1745,10 +1746,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "41.5 m",
         "Lateral 2": "43.0 m",
-        "m²": "548.0 m²",
-        "": ""
+        "m²": "548.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.15",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "15",
@@ -1756,10 +1757,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "21.0 m",
         "Lateral 2": "23.0 m",
-        "m²": "363.0 m²",
-        "": ""
+        "m²": "363.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.16",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "16",
@@ -1767,10 +1768,10 @@
         "Fundos": "17.0 m",
         "Lateral 1": "23.0 m",
         "Lateral 2": "26.0 m",
-        "m²": "428.7 m²",
-        "": ""
+        "m²": "428.7 m²"
     },
     {
+        "\"ID\"": "Q.36 L.17",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "17",
@@ -1778,10 +1779,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "26.0 m",
         "Lateral 2": "28.0 m",
-        "m²": "465.0 m²",
-        "": ""
+        "m²": "465.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.18",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "18",
@@ -1789,10 +1790,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "31.0 m",
-        "m²": "475.7 m²",
-        "": ""
+        "m²": "475.7 m²"
     },
     {
+        "\"ID\"": "Q.36 L.19",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "19",
@@ -1800,10 +1801,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "31.0 m",
         "Lateral 2": "28.0 m",
-        "m²": "486.7 m²",
-        "": ""
+        "m²": "486.7 m²"
     },
     {
+        "\"ID\"": "Q.36 L.20",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "20",
@@ -1811,10 +1812,10 @@
         "Fundos": "9.0 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "25.5 m",
-        "m²": "394.7 m²",
-        "": ""
+        "m²": "394.7 m²"
     },
     {
+        "\"ID\"": "Q.36 L.21",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "21",
@@ -1822,10 +1823,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "25.5 m",
         "Lateral 2": "19.0 m",
-        "m²": "384.5 m²",
-        "": ""
+        "m²": "384.5 m²"
     },
     {
+        "\"ID\"": "Q.36 L.22",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "22",
@@ -1833,10 +1834,10 @@
         "Fundos": "9.5 m",
         "Lateral 1": "39.0 m",
         "Lateral 2": "28.0 m",
-        "m²": "484.4 m²",
-        "": ""
+        "m²": "484.4 m²"
     },
     {
+        "\"ID\"": "Q.36 L.23",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "23",
@@ -1844,10 +1845,10 @@
         "Fundos": "28.0 m",
         "Lateral 1": "-",
         "Lateral 2": "-",
-        "m²": "385.0 m²",
-        "": ""
+        "m²": "385.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.24",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "24",
@@ -1855,10 +1856,10 @@
         "Fundos": "25.0 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "20.0 m",
-        "m²": "480.0 m²",
-        "": ""
+        "m²": "480.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.25",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "25",
@@ -1866,10 +1867,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "28.0 m",
         "Lateral 2": "27.0 m",
-        "m²": "377.2 m²",
-        "": ""
+        "m²": "377.2 m²"
     },
     {
+        "\"ID\"": "Q.36 L.26",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "26",
@@ -1877,10 +1878,10 @@
         "Fundos": "15.0 m",
         "Lateral 1": "27.0 m",
         "Lateral 2": "27.0 m",
-        "m²": "364.5 m²",
-        "": ""
+        "m²": "364.5 m²"
     },
     {
+        "\"ID\"": "Q.36 L.28",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "28",
@@ -1888,10 +1889,10 @@
         "Fundos": "17.0 m",
         "Lateral 1": "24.5 m",
         "Lateral 2": "23.0 m",
-        "m²": "410.0 m²",
-        "": ""
+        "m²": "410.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.29",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "29",
@@ -1899,10 +1900,10 @@
         "Fundos": "16.0 m",
         "Lateral 1": "23.0 m",
         "Lateral 2": "22.0 m",
-        "m²": "379.3 m²",
-        "": ""
+        "m²": "379.3 m²"
     },
     {
+        "\"ID\"": "Q.36 L.30",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "30",
@@ -1910,10 +1911,10 @@
         "Fundos": "22.0 m",
         "Lateral 1": "18.0 m",
         "Lateral 2": "26.0 m",
-        "m²": "462.0 m²",
-        "": ""
+        "m²": "462.0 m²"
     },
     {
+        "\"ID\"": "Q.36 L.31",
         "Proprietario": "WCK",
         "Quadra": "36",
         "Lote": "31",
@@ -1921,10 +1922,10 @@
         "Fundos": "17.0 m",
         "Lateral 1": "26.0 m",
         "Lateral 2": "32.0 m",
-        "m²": "478.5 m²",
-        "": ""
+        "m²": "478.5 m²"
     },
     {
+        "\"ID\"": "Q.36 L.32",
         "Proprietario": "COLONIZADORA",
         "Quadra": "36",
         "Lote": "32",
@@ -1932,10 +1933,10 @@
         "Fundos": "12.0 m",
         "Lateral 1": "32.0 m",
         "Lateral 2": "37.5 m",
-        "m²": "568.4 m²",
-        "": ""
+        "m²": "568.4 m²"
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -1943,10 +1944,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -1954,10 +1955,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -1965,10 +1966,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -1976,10 +1977,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -1987,10 +1988,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -1998,10 +1999,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2009,10 +2010,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2020,10 +2021,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2031,10 +2032,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2042,10 +2043,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2053,10 +2054,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2064,10 +2065,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2075,10 +2076,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2086,10 +2087,10 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     },
     {
+        "\"ID\"": "",
         "Proprietario": "",
         "Quadra": "",
         "Lote": "",
@@ -2097,7 +2098,6 @@
         "Fundos": "",
         "Lateral 1": "",
         "Lateral 2": "",
-        "m²": "",
-        "": ""
+        "m²": ""
     }
 ]
